@@ -298,7 +298,7 @@ const WebsiteListing = () => {
         </div>
       </section>
 
-      {/* Purchase Section */}}
+      {/* Purchase Section */}
       <section 
         className="py-16 px-4 sm:px-6 lg:px-8"
         style={{ background: 'var(--gradient-primary)' }}
